@@ -3,4 +3,7 @@ welcome gitlib.
 store data
 validate data
 
+python
+linux
+
 thank you
