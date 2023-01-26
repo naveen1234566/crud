@@ -1,0 +1,10 @@
+
+fastapi using install setup
+
+1.fastapi
+2.sqlalchemy
+3.pydandic
+4.uvicorn
+
+
+run uvicorn in port
